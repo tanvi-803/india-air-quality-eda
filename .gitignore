@@ -4,12 +4,6 @@ data/raw/cpcb-*
 data/raw/*.csv
 *.parquet
 
-# Course handouts and extracted text
-IT462_2026.pdf
-it462_2026_text.txt
-EDA Project.pdf
-eda_project_text.txt
-
 # Generated model binaries (re-create with `python main.py`)
 *.joblib
 
