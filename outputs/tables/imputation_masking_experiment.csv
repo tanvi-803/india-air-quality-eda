@@ -1,0 +1,5 @@
+Method,Type,Evaluated_Points,RMSE,MAE
+Forward Fill (7-day cap),Univariate Autoregressive,430,18.63,9.07
+Linear Interpolation (7-day cap),Univariate Temporal,430,11.72,6.25
+"K-Nearest Neighbors (KNN, k=5)",Multivariate Stoichiometric,430,49.75,26.34
+"Iterative Imputer (MICE, BayesianRidge)",Multivariate Regression,430,16.1,8.0

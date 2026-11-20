@@ -1,0 +1,86 @@
+{
+  "Ahmedabad": {
+    "state": "Gujarat",
+    "region": "West",
+    "latitude": 23.022846,
+    "longitude": 72.60188,
+    "elevation": 53.0
+  },
+  "Bengaluru": {
+    "state": "Karnataka",
+    "region": "South",
+    "latitude": 12.970123,
+    "longitude": 77.56364,
+    "elevation": 918.0
+  },
+  "Chennai": {
+    "state": "Tamil Nadu",
+    "region": "South",
+    "latitude": 13.110721,
+    "longitude": 80.2459,
+    "elevation": 15.0
+  },
+  "Delhi": {
+    "state": "Delhi",
+    "region": "North",
+    "latitude": 28.646748,
+    "longitude": 77.2748,
+    "elevation": 231.0
+  },
+  "Hyderabad": {
+    "state": "Telangana",
+    "region": "South",
+    "latitude": 17.398945,
+    "longitude": 78.457085,
+    "elevation": 515.0
+  },
+  "Jaipur": {
+    "state": "Rajasthan",
+    "region": "North-West",
+    "latitude": 26.959578,
+    "longitude": 75.81576,
+    "elevation": 438.0
+  },
+  "Kolkata": {
+    "state": "West Bengal",
+    "region": "East",
+    "latitude": 22.530754,
+    "longitude": 88.3195,
+    "elevation": 11.0
+  },
+  "Lucknow": {
+    "state": "Uttar Pradesh",
+    "region": "North",
+    "latitude": 26.81898,
+    "longitude": 80.93023,
+    "elevation": 127.0
+  },
+  "Mumbai": {
+    "state": "Maharashtra",
+    "region": "West",
+    "latitude": 19.086115,
+    "longitude": 72.85291,
+    "elevation": 8.0
+  },
+  "Patna": {
+    "state": "Bihar",
+    "region": "East",
+    "latitude": 25.6239,
+    "longitude": 85.108696,
+    "elevation": 51.0
+  },
+  "Pune": {
+    "state": "Maharashtra",
+    "region": "West",
+    "latitude": 18.523726,
+    "longitude": 73.86876,
+    "elevation": 555.0
+  },
+  "Surat": {
+    "state": "Gujarat",
+    "region": "West",
+    "latitude": 21.195078,
+    "longitude": 72.787384,
+    "elevation": 21.0
+  }
+}

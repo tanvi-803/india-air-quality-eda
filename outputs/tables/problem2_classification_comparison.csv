@@ -1,0 +1,6 @@
+Model,Type,Threshold,Severe_Precision,Severe_Recall,Severe_F1,ROC_AUC,PR_AUC,Test_Prevalence,Outperforms_Persistence
+Persistence Baseline (Today=Tomorrow),Naive Benchmark,n/a (hard rule),0.782,0.791,0.786,0.845,0.684,0.315,Baseline
+Logistic Regression (Balanced),Supervised Learning,0.622,0.737,0.857,0.792,0.937,0.879,0.315,Yes
+Random Forest Classifier,Supervised Learning,0.503,0.673,0.934,0.782,0.932,0.857,0.315,No
+HistGradientBoosting,Supervised Learning,0.226,0.718,0.837,0.773,0.927,0.863,0.315,No
+Support Vector Classifier (RBF),Supervised Learning,0.1,0.624,0.965,0.758,0.88,0.681,0.315,No

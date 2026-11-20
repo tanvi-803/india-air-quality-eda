@@ -1,0 +1,14 @@
+Feature,Formula,Domain,Leakage_Safe
+pm25_lag_1,PM2.5(t-1),Autoregressive,Yes
+pm25_lag_2,PM2.5(t-2),Autoregressive,Yes
+pm25_lag_3,PM2.5(t-3),Autoregressive,Yes
+pm25_lag_7,PM2.5(t-7),Weekly Seasonality,Yes
+pm25_roll3_mean,Mean(PM2.5[t-3:t-1]),Short-term Baseline,Yes
+pm25_roll7_mean,Mean(PM2.5[t-7:t-1]),Weekly Baseline,Yes
+pm25_roll30_mean,Mean(PM2.5[t-30:t-1]),Monthly Baseline,Yes
+pm25_diff_1,PM2.5(t) - PM2.5(t-1),Momentum / Delta,Yes
+ventilation_index,(WS / 3.6) * BLH,Atmospheric Dispersion,Yes
+fire_count_NW_lag_1,Fires_NW(t-1),Transboundary Biomass Plume,Yes
+fire_count_NW_lag_2,Fires_NW(t-2),Transboundary Biomass Plume,Yes
+diwali_window,"1 if date in [Diwali-3, Diwali+3]",Festive Anthropogenic Shock,Yes
+severe_next_day,1 if PM2.5(t+1) >= top-12% city-day threshold (see severe_threshold.json),Target Variable,Target

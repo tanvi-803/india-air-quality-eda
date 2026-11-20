@@ -1,0 +1,6 @@
+Model,RMSE (µg/m³),MAE (µg/m³),R_Squared,Beats_Baseline
+City-Mean Baseline,48.08,29.55,-0.106,Baseline
+Ridge Regression (L2),15.63,8.9,0.883,Yes
+Lasso Regression (L1),15.87,8.92,0.879,Yes
+Random Forest Regressor,20.01,10.3,0.808,Yes
+HistGradientBoosting Regressor,20.6,10.69,0.797,Yes

@@ -1,0 +1,4 @@
+Check,Mean_ARI,P5_ARI
+Bootstrap days within city (n=200),0.969,0.683
+Jan-Jun only,0.801,
+Jul-Dec only,0.112,

@@ -1,0 +1,5 @@
+Filename,Source,Uncompressed_File,Total_Rows,Columns,Target_Cities_Covered,Time_Resolution,Status
+cpcb-air-quality-2025.csv.zip,CPCB / Vayuayan,cpcb-aqi-2025.csv,18838322,29,12,15-minute,Verified
+Open-Meto_data.zip,Open-Meteo Historical Weather API,12 CSVs,315648,8,12,Hourly (2023-01-01 to 2025-12-31),Verified
+NASA_FIRMS_RAW.zip,NASA FIRMS (VIIRS/MODIS),220 CSV files,207860,15,Punjab & Haryana Bounding Box,Daily Detections (2023-2025),Verified
+festival_calendar_raw.zip,Astronomical / National Festival Calendar,festival_calendar_raw.csv,1096,7,National Calendar,Daily (2023-01-01 to 2025-12-31),Verified

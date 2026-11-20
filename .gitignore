@@ -1,0 +1,22 @@
+# Large raw data (download separately; see README)
+/*.zip
+data/raw/cpcb-*
+data/raw/*.csv
+*.parquet
+
+# Course handouts and extracted text
+IT462_2026.pdf
+it462_2026_text.txt
+EDA Project.pdf
+eda_project_text.txt
+
+# Generated model binaries (re-create with `python main.py`)
+*.joblib
+
+# Python / tooling / OS
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

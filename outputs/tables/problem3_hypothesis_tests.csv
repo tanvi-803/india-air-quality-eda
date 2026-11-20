@@ -1,0 +1,4 @@
+Hypothesis,Test,Statistic,p_value,Group_1_Median,Group_2_Median,Conclusion
+Diwali Window PM2.5 > Baseline Non-Festival,Mann-Whitney U (One-Sided),249863.5,2.5339e-12,60.44,36.41,Reject H0 (Statistically Significant Surge)
+Seasonal Divergence Across Annual Cycle,Kruskal-Wallis H-Test,1672.03,0.0000e+00,59.32,22.41,Reject H0 (Highly Significant Seasonality)
+Weekend Effect (Anthropogenic Traffic Lull),Mann-Whitney U (Two-Sided),1871506.0,6.7712e-01,36.9,36.79,Fail to Reject H0 (No Significant Weekend Drop)
